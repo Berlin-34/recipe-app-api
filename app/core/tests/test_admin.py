@@ -1,7 +1,6 @@
 """
 Tests for the Django admin modifications.
 """
-import email
 from django.test import (
     TestCase,
     Client,
